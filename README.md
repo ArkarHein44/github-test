@@ -1,8 +1,8 @@
        
 Use `git status` to list all new or modified files that haven't yet been committed.
->[NOTE]
->red files means modified.
->green files means staging.
+> [NOTE]
+> red files means modified.
+> green files means staging.
 
 Use `git add <file>` to add modified file to staging. Use `git add * || git add .` for all files.
 
