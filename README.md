@@ -1,6 +1,6 @@
        
 Use `git status` to list all new or modified files that haven't yet been committed.
->[MOTE]
+>[NOTE]
 >red files means modified.
 >green files means staging.
 
